@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Rumana Afrose</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHoQRxSHBBGLw/profile-displaybackgroundimage-shrink_200_800/B56ZpFv_1AJ4AU-/0/1762106803077?e=1764201600&v=beta&t=h5oqdy3ARPxNqvv_W9Lgnl_IfZbWwy1YTGRAgkb9j-o">
 <h3 align="center">Creative Web Designer Developer & WordPress Specialist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrumana&label=Profile%20views&color=0e75b6&style=flat" alt="devrumana" /> </p>
