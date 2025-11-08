@@ -1,3 +1,4 @@
+<img src="[https://avatars.githubusercontent.com/u/242741885?v=4](https://media.licdn.com/dms/image/v2/D5603AQHoc2FjrUG4ZQ/profile-displayphoto-scale_200_200/B56ZoL4DUuI8AY-/0/1761135837629?e=1764201600&v=beta&t=Y0m1kOpjyhYweXI39NC_MPaUv6yl7Gu30_RGzSiepVo)">
 <h1 align="center">Hi 👋, I'm Rumana Afrose</h1>
 <h3 align="center">Creative Web Designer Developer & WordPress Specialist.</h3>
 
